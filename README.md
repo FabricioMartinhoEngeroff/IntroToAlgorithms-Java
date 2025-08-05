@@ -1,7 +1,7 @@
 # IntroToAlgorithms-Java
 Java implementations of classic algorithms from the book Introduction to Algorithms (CLRS).
 
-Hi there 👋
+Hi there
 
 This repository is a personal project I created to help me truly understand the core of computer science: **algorithms**.
 
@@ -29,6 +29,6 @@ If you’re also learning algorithms — welcome.
 Feel free to explore the code, fork it, or even start your own version of this idea.
 
 Thanks for reading.  
-Let’s keep learning. 🧠💻
+Let’s keep learning.
 
 — *Fabricio Engeroff*
