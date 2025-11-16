@@ -100,7 +100,7 @@ Complexidade: O(log k) multiplicações de matriz.
  - Ligação com a teoria: CLRS também apresenta exponenciação rápida em outros contextos; aqui aplicamos às matrizes para calcular A^k.
 
  6 - app > Man.java
-   Programa de teste: Cria uma matriz de adjacência A (exemplo 4×4).
+   Programa de kruskalmst: Cria uma matriz de adjacência A (exemplo 4×4).
 - Calcula A^7 com SimpleMultiplier e com StrassenMultiplier.
 - Imprime os dois resultados (iguais).
 
