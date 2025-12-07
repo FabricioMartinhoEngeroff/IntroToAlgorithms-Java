@@ -1,4 +1,4 @@
-package MaxFlowAndMatching;
+package maxflowandmatching;
 
 import java.util.ArrayList;
 import java.util.List;

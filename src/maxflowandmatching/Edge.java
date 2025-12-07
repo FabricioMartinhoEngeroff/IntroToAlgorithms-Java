@@ -1,4 +1,4 @@
-package MaxFlowAndMatching;
+package maxflowandmatching;
 
 public class Edge {
     public int from;
