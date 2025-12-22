@@ -1,14 +1,14 @@
-package greedyedmondskarpassignment;
+package greedy_edmondskarp_assignment_algorithms;
 
 import java.util.*;
 
-import greedyedmondskarpassignment.model.Cargo;
-import greedyedmondskarpassignment.model.MatchingResult;
-import greedyedmondskarpassignment.model.Truck;
-import greedyedmondskarpassignment.strategy.GreedyMatching;
-import greedyedmondskarpassignment.strategy.MatchingStrategy;
-import greedyedmondskarpassignment.strategy.MaxFlowMatching;
-import greedyedmondskarpassignment.strategy.OptimalAssignment;
+import greedy_edmondskarp_assignment_algorithms.model.Cargo;
+import greedy_edmondskarp_assignment_algorithms.model.MatchingResult;
+import greedy_edmondskarp_assignment_algorithms.model.Truck;
+import greedy_edmondskarp_assignment_algorithms.strategy.GreedyMatching;
+import greedy_edmondskarp_assignment_algorithms.strategy.MatchingStrategy;
+import greedy_edmondskarp_assignment_algorithms.strategy.MaxFlowMatching;
+import greedy_edmondskarp_assignment_algorithms.strategy.OptimalAssignment;
 
 public class TruckMatchingDemo {
 

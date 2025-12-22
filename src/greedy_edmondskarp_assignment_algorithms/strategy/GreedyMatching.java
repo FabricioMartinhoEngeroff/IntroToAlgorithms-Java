@@ -1,9 +1,9 @@
-package greedyedmondskarpassignment.strategy;
+package greedy_edmondskarp_assignment_algorithms.strategy;
 
-import greedyedmondskarpassignment.model.Cargo;
-import greedyedmondskarpassignment.model.Match;
-import greedyedmondskarpassignment.model.MatchingResult;
-import greedyedmondskarpassignment.model.Truck;
+import greedy_edmondskarp_assignment_algorithms.model.Cargo;
+import greedy_edmondskarp_assignment_algorithms.model.Match;
+import greedy_edmondskarp_assignment_algorithms.model.MatchingResult;
+import greedy_edmondskarp_assignment_algorithms.model.Truck;
 
 import java.util.ArrayList;
 import java.util.List;

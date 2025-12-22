@@ -1,4 +1,4 @@
-package greedyedmondskarpassignment.model;
+package greedy_edmondskarp_assignment_algorithms.model;
 
 public class Truck {
 
