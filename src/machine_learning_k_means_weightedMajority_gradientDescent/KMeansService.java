@@ -1,4 +1,4 @@
-package k_means_weightedMajority_gradientDescent;
+package machine_learning_k_means_weightedMajority_gradientDescent;
 
 
 import java.util.Arrays;
