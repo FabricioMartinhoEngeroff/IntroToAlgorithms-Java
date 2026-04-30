@@ -1,4 +1,4 @@
-package MatrixLabCLRS;
+package matrixLabCLRS;
 
 /**
  * Rank, determinant and singularity tests from CLRS Appendix D.3.

@@ -1,4 +1,4 @@
-package MatrixLabCLRS;
+package matrixLabCLRS;
 
 /**
  * Special matrix types from CLRS Appendix D.1.

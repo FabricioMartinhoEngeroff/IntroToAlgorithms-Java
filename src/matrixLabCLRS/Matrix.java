@@ -1,4 +1,4 @@
-package MatrixLabCLRS;
+package matrixLabCLRS;
 
 /**
  * Represents a 2D matrix as an immutable structure.

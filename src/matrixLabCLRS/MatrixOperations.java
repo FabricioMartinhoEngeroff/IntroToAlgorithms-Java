@@ -1,4 +1,4 @@
-package MatrixLabCLRS;
+package matrixLabCLRS;
 
 /**
  * Core matrix and vector operations from CLRS Appendix D.2.

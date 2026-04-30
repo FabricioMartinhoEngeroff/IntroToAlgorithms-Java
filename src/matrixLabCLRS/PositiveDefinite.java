@@ -1,4 +1,4 @@
-package MatrixLabCLRS;
+package matrixLabCLRS;
 
 /**
  * Positive-definite matrices from CLRS Appendix D.4.
